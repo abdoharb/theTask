@@ -70,8 +70,7 @@
                                 </span>
                             </div>
 
-<!--                            <button onclick="validateRegisterForm() === true ? document.getElementById('myForm').submit() : false" type="button" class="btn btn-primary">Submit</button>-->
-                            <button onclick="document.getElementById('myForm').submit()" type="button" class="btn btn-primary">Submit</button>
+                            <button onclick="validateRegisterForm() === true ? document.getElementById('myForm').submit() : false" type="button" class="btn btn-primary">Submit</button>
                         </div>
                     </form>
                 </div>
