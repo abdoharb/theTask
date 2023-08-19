@@ -1,0 +1,13 @@
+.validate_required{
+    border-color: #842029;
+}
+
+#thumbnail{
+    width: 100px;
+    height: 100px;
+}
+
+#img_preview{
+    width: 100px;
+    height: 100px;
+}
